@@ -1,0 +1,38 @@
+ .u-section-1 {
+  background-image: url("images/mission-vision-values-icon-organization-mission-success-growth.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 410px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 370px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 287px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 523px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 372px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 196px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 0 0 20px;
+}
